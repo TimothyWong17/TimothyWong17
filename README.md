@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimothyWong17
 - 👀 I’m interested in Data Engineering, Business Intelligence, ML Engineering, and Software Engineering
-- 🌱 I’m currently learning Cloud Computing, specifically learning AWS architecture
+- 🌱 I’m currently learning Cloud Computing, specifically learning AWS Development Architecture
 <!--- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me https://www.linkedin.com/in/timothygwong/
 
