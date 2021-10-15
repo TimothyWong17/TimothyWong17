@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TimothyWong17
-- 👀 I’m interested in Data Engineering, Business Intelligence, ML Engineering, and Software Engineering
-- 🌱 I’m currently learning Cloud Computing, specifically learning AWS Development Architecture
-<!--- 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me https://www.linkedin.com/in/timothygwong/
+- 👀 I’m interested in Front End Software Engineering and Full Stack Software Engineering
+- 🌱 I’m currently learning ReactJS, TypeScript, and Express
+- 📫 How to reach me: https://www.linkedin.com/in/timothygwong/
 
 <!---
 TimothyWong17/TimothyWong17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
