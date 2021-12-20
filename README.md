@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TimothyWong17
-- 👀 I’m interested in Front End Software Engineering and Full Stack Software Engineering
+- 👀 I’m interested in Front End Software Engineering
 - 🌱 I’m currently learning React.js/Redux, TypeScript, and Express
 - 📫 How to reach me: https://www.linkedin.com/in/timothygwong/
 
