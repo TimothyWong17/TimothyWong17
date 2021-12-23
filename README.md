@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimothyWong17
 - 👀 I’m interested in Front End Software Engineering
-- 🌱 I’m currently learning React.js/Redux, TypeScript, and Express
+- 🌱 I’m currently learning React.js and Typescript
 - 📫 How to reach me: https://www.linkedin.com/in/timothygwong/
 
 <!---
