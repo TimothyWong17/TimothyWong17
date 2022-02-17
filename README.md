@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @TimothyWong17
-- 👀 I’m interested in Front End Software Engineering
-- 🌱 I’m currently learning MERN Stack and Typescript
 - 📫 How to reach me: https://www.linkedin.com/in/timothygwong/
 
 <!---
