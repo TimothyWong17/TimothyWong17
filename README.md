@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TimothyWong17
+- 👋 Hi, I’m @TimothyWong17. I'm an aspiring IOS Engineer
 - 📫 How to reach me: https://www.linkedin.com/in/timothygwong/
 
 <!---
