@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TimothyWong17. I'm an aspiring IOS Engineer
+- 👋 Hi, I’m @TimothyWong17. I am currently a Data Engineer
 - 📫 How to reach me: https://www.linkedin.com/in/timothygwong/
 
 <!---
