@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TimothyWong17. I am currently a Data Engineer
+- 👋 Hi, I’m @TimothyWong17. I am currently a Full-Stack Engineer
 - 📫 How to reach me: https://www.linkedin.com/in/timothygwong/
 
 <!---
