@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TimothyWong17. I am currently a Full-Stack Engineer
+- 👋 Hi, I’m @TimothyWong17. I am a MERN stack software engineer
 - 📫 How to reach me: https://www.linkedin.com/in/timothygwong/
 
 <!---
