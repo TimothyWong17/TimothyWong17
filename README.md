@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TimothyWong17. I am a Front-End software engineer
+- 👋 Hi, I’m @TimothyWong17. I'm a Front-End/Full-Stack engineer
 - 📫 How to reach me: https://www.linkedin.com/in/timothygwong/
 
 <!---
