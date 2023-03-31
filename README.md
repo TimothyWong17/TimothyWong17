@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TimothyWong17. I'm a Front-End/Full-Stack engineer
+- 👋 Hi, I’m @TimothyWong17. I'm a Front-End/Full-Stack Engineer with a passion for UI/UX
 - 📫 How to reach me: https://www.linkedin.com/in/timothygwong/
 
 <!---
