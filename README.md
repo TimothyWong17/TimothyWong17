@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TimothyWong17. I'm a Data Engineer training to specialize in Data Science/Machine Learning
+- 👋 Hi, I’m @TimothyWong17. I'm a currently a data engineer aspiring to be a product manager
 - 📫 How to reach me: https://www.linkedin.com/in/timothygwong/
 
 <!---
