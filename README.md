@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TimothyWong17. I'm a currently a data engineer aspiring to be a product manager
+- 👋 Hi, I’m @TimothyWong17. I am a data engineer passionate about Big Data, Data Science, and Cloud Technologies
 - 📫 How to reach me: https://www.linkedin.com/in/timothygwong/
 
 <!---
